@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuliaGurova
+👋 Hi, I’m @JuliaGurova
 
 # Junior Data Analist
 
