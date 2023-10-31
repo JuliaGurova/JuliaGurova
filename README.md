@@ -2,7 +2,7 @@
 
 # Junior Data Analist
 
-- Прошла обучение в Яндекс Прктикуме "Аналитик Данных". Навыки и инструменты:
+- Прошла обучение в Яндекс Практикуме "Аналитик Данных". Навыки и инструменты:
   * Python (pandas, matplotlib, plotly, follium, seaborn, stats, re, numpy)
   * SQL (SELECT, OVER, JOIN, WHERE, HAVING, GROUP BY, ORDER BY)
   * Tableau
