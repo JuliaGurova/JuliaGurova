@@ -8,7 +8,7 @@
   * Python (pandas, matplotlib, plotly, follium, seaborn, stats, re, numpy)
   * SQL (SELECT, OVER, JOIN, WHERE, HAVING, GROUP BY, ORDER BY)
   * Tableau
-## [Портфолио](https://github.com/JuliaGurova/Portfolio)
+## [Портфолио - кликай](https://github.com/JuliaGurova/Portfolio)
 
 ## Опыт работы:
 ### 1. Маркетинговый аналитик в Changellenge с упором на планирование промо (1,5 года опыта)
